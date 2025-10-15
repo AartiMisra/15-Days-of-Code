@@ -1,4 +1,4 @@
-<img width="1920" height="1080" alt="Screenshot (177)" src="https://github.com/user-attachments/assets/e757c22c-c3f2-480c-b023-ed40ece0b19b" />**DAY-1**
+**DAY-1**
 leetcode Questions:
 144. <img width="1600" height="726" alt="image" src="https://github.com/user-attachments/assets/427fe3f7-2f79-44a6-bcd1-84d05b0c4bfc" />
 145. <img width="1600" height="775" alt="image" src="https://github.com/user-attachments/assets/f6935baa-dd5c-4d1d-8639-b550d2d63afa" />
