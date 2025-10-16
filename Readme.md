@@ -35,6 +35,20 @@ Codechef contest(3 problems):
 
 
 
+**DAY-4**
+Leetcode Questions:
+136. <img width="1920" height="1080" alt="Screenshot (187)" src="https://github.com/user-attachments/assets/63daa8c3-ec28-4261-a135-0fedbf267243" />
+268. <img width="1920" height="1080" alt="Screenshot (188)" src="https://github.com/user-attachments/assets/a466ecc5-e885-4f5d-b632-e0be5a106daa" />
+237. <img width="1920" height="1080" alt="Screenshot (189)" src="https://github.com/user-attachments/assets/f9ee8091-9b37-40e1-90d7-cce6168f5027" />
+142. <img width="1920" height="1080" alt="Screenshot (190)" src="https://github.com/user-attachments/assets/dc1b475a-7ee4-44c5-89c4-1c389a232f4b" />
+328.<img width="1920" height="1080" alt="Screenshot (191)" src="https://github.com/user-attachments/assets/9ae312a1-2876-4363-98d7-ba81de431981" />
+
+
+
+
+
+
+
 
 
 
