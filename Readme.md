@@ -16,7 +16,7 @@ Codechef practice problems(4):
 Leetcode Questions:
 33. <img width="1920" height="1080" alt="Screenshot (177)" src="https://github.com/user-attachments/assets/47843642-bb86-488a-b2cd-179a2569e8cf" />
 
-Machine Learning Playlisr-Krish Naik:
+Machine Learning Playlist-Krish Naik:
 lec1: https://www.youtube.com/watch?v=7uwa9aPbBRU&list=PLTDARY42LDV7WGmlzZtY-w9pemyPrKNUZ
 lec2: https://www.youtube.com/watch?v=jerPVDaHbEA&list=PLTDARY42LDV7WGmlzZtY-w9pemyPrKNUZ&index=2 upto 30 minutes
 
@@ -42,6 +42,13 @@ Leetcode Questions:
 237. <img width="1920" height="1080" alt="Screenshot (189)" src="https://github.com/user-attachments/assets/f9ee8091-9b37-40e1-90d7-cce6168f5027" />
 142. <img width="1920" height="1080" alt="Screenshot (190)" src="https://github.com/user-attachments/assets/dc1b475a-7ee4-44c5-89c4-1c389a232f4b" />
 328.<img width="1920" height="1080" alt="Screenshot (191)" src="https://github.com/user-attachments/assets/9ae312a1-2876-4363-98d7-ba81de431981" />
+
+
+**DAY-5**
+Machine Learning Playlist-Krish Naik:
+lec2: https://www.youtube.com/watch?v=jerPVDaHbEA&list=PLTDARY42LDV7WGmlzZtY-w9pemyPrKNUZ&index=2
+
+
 
 
 
